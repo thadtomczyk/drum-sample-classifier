@@ -19,7 +19,7 @@ The model is trained using a folder of labelled audio samples. Each audio file i
    - `hat/`
    - `perc/`
 2. Run the training script to create `drum_cnn.pth`.
-3. Place new, unlabeled samples inside `unsorted/`.
+3. Place new, unlabeled samples inside `raw/`.
 4. Run the classification script to automatically sort them.
 
 ### Requirements

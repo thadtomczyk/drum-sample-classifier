@@ -28,6 +28,8 @@ PyTorch
 torchaudio  
 matplotlib  
 librosa  
+numpy
+scipy
 
 ### Future Improvements
 - More robust dataset and additional drum types.

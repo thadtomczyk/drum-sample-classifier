@@ -28,7 +28,6 @@ PyTorch
 torchaudio  
 matplotlib  
 librosa  
-(any additional libraries used in your scripts)
 
 ### Future Improvements
 - More robust dataset and additional drum types.

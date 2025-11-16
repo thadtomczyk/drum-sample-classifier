@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights
+*.pt
+*.pth
+
+# Audio data
+data/
+*.wav
+*.mp3
+*.flac
+
+# VS Code
+.vscode/
+.idea/
+.vs/

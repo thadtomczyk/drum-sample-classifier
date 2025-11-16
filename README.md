@@ -34,5 +34,3 @@ librosa
 - Data augmentation for generalization.
 - Improved UI for drag-and-drop sample sorting.
 - Exporting the trained model into a JUCE plugin for DAWs.
-
-This project is part of my audio-focused machine learning work for program applications and portfolio development.
